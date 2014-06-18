@@ -1,0 +1,22 @@
+{
+    "license": "",
+    "preferences": [
+        {
+            "type": "integer",
+            "name": "minimumFontSize",
+            "value": 15,
+            "title": "Minimum Font Size"
+        }
+    ],
+    "contributors": [],
+    "author": "splurov",
+    "url": "",
+    "name": "minimum-font-size-hotkey",
+    "dependencies": ["api-utils", "addon-kit"],
+    "version": "1.0.0",
+    "lib": "lib",
+    "fullName": "Minimum Font Size Hotkey",
+    "main": "main",
+    "id": "jid0-qHkh36kfLDsSb804uQhFcVpeJhc",
+    "description": "Assign Ctrl+Shift+0 (zero) (or Cmd+Shift+0 for Mac OS X) to set (or reset to default) the minimum font size for all font groups.\nThe value for the font size is specified in the add-on settings."
+}
